@@ -30,13 +30,11 @@ function Mobile() {
         phone.inbox.push(this.Msg);
     }
 }
-
 let DienThoainokia = new Mobile();
 let DienThoaiiphone = new Mobile();
 document.getElementById("NangLuongPin1").innerHTML = DienThoainokia.Pin;
 document.getElementById("NangLuongPin").innerHTML = DienThoaiiphone.Pin;
     function soantinmay1(text) {
-        document.getElementById("TinNhanDangSoan1").innerHTML = text;
         DienThoainokia.TinNhanDangSoanThao(text);
     }
     function GuiTinNhan1() {
@@ -46,8 +44,7 @@ document.getElementById("NangLuongPin").innerHTML = DienThoaiiphone.Pin;
         document.getElementById("NangLuongPin1").innerHTML = DienThoainokia.Pin;
     }
     function soantinmay2(text) {
-        document.getElementById("TinNhanDangSoan2").innerHTML = text;
-        DienThoainokia.TinNhanDangSoanThao(text);
+        DienThoaiiphone.TinNhanDangSoanThao(text);
     }
     function GuiTinNhan2() {
         DienThoaiiphone.GuiTinNhanDenMobile(DienThoainokia);

@@ -30,8 +30,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Funny circles/.idea/[Thực hành] Funny circles.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Funny circles/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Thực hành] Funny circles/.idea/modules.xml" afterDir="false" />
@@ -105,6 +103,10 @@
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html" beforeDir="false" afterPath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js" beforeDir="false" afterPath="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.html" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" afterDir="false" />
@@ -141,11 +143,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="77" column="52" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="52" />
+            <state relative-caret-position="168">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,11 +156,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
+            <state relative-caret-position="609">
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -179,13 +181,13 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html" />
         <option value="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js" />
+        <option value="$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html" />
       </list>
     </option>
   </component>
@@ -201,6 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,7 +215,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,12 +265,13 @@
       <workItem from="1557884099568" duration="2022000" />
       <workItem from="1557888660060" duration="1969000" />
       <workItem from="1557929011926" duration="1333000" />
-      <workItem from="1557974978157" duration="17171000" />
+      <workItem from="1557974978157" duration="17470000" />
+      <workItem from="1558015852112" duration="903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55171000" />
+    <option name="totallyTimeSpent" value="56373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -286,7 +289,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299435" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3299435" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,21 +300,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="77" column="52" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="52" />
+        <state relative-caret-position="168">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/[Bài tập] Xây dựng lớp mô tả điện thoại.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
         </state>
       </provider>
     </entry>
