@@ -5,7 +5,8 @@
     <title>Hello</title>
 </head>
 <body>
-<table style="width: 200px" border="1" >
+<table>
+    <td><table style="width: 200px" border="1" >
         <tr>
         <tr><b>Máy Samsung</b></tr>
         <tr><td><p> Soạn tin nhắn: <input type="text" oninput="soantinmay1(this.value)"/> </p></td>
@@ -16,8 +17,8 @@
         <tr><input type="button" value="Bật điện thoại" onclick="BatDienThoai()"/></tr>
         <tr><td><p>Năng lượng Pin:<span id="NangLuongPin1"></span></p></td>
             <td><input type="button" value="Xạc điện thoại" onclick="ClickSacDt1()"/></td></tr>
-</table>
-<table style="width: 200px" border="1">
+</table></td>
+    <td><table style="width: 200px" border="1">
             <tr><b>Máy Iphone</b></tr>
             <tr><td><p>Soạn tin nhắn:<input type="text"  oninput="soantinmay2(this.value)"/></p></td>
                 <td><input type="button" value="Gửi tin nhắn2" onclick="GuiTinNhan2()"/></td></tr>
@@ -27,6 +28,7 @@
             <tr><input type="button" value="Bật điện thoại" onclick="BatDienThoai()"/></tr>
             <tr><td><p>Năng lượng Pin:<span id="NangLuongPin"></span></p></td>
             <td><input type="button" value="Xạc điện thoại" onclick="ClickSacDt2()"/></td></tr>
+</table></td>
 </table>
 <script src="[Bài tập] Xây dựng lớp mô tả điện thoại.js"></script>
 </body>
